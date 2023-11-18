@@ -1,0 +1,11 @@
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\bin\Debug\net6.0\AccessModP2.Weapon.deps.json
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\bin\Debug\net6.0\AccessModP2.Weapon.dll
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\bin\Debug\net6.0\AccessModP2.Weapon.pdb
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\obj\Debug\net6.0\AccessModP2.Weapon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\obj\Debug\net6.0\AccessModP2.Weapon.AssemblyInfoInputs.cache
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\obj\Debug\net6.0\AccessModP2.Weapon.AssemblyInfo.cs
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\obj\Debug\net6.0\AccessModP2.Weapon.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\obj\Debug\net6.0\AccessModP2.Weapon.dll
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\obj\Debug\net6.0\refint\AccessModP2.Weapon.dll
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\obj\Debug\net6.0\AccessModP2.Weapon.pdb
+C:\Users\Honor MagicBook\Downloads\AccessModP2\AccessModP2.Weapon\obj\Debug\net6.0\ref\AccessModP2.Weapon.dll
