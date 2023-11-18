@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZAjBSoMlwvs3zIVT9fij9iTUqjZcP1LR3kUKeSrwpLkwpw0ygv7bE65u7G4F5BPTT/2gAdtz/vOyi5KvngJViw==",
+  "dgSpecHash": "DVxLZvRhVldZF4YKpasgpiB//O+diBuM+FW2lYdF+MCPpDDLrvBMVUOGUXxHBKhBuJaywxOzM6QPzRgEBIt2AQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccessModP2\\AccessModP2.csproj",
+  "projectFilePath": "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccesMod\\AccessModP2\\AccessModP2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Honor MagicBook\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
   ],

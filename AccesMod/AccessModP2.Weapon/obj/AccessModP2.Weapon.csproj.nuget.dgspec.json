@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccessModP2.Weapon\\AccessModP2.Weapon.csproj": {}
+    "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccesMod\\AccessModP2.Weapon\\AccessModP2.Weapon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccessModP2.Weapon\\AccessModP2.Weapon.csproj": {
+    "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccesMod\\AccessModP2.Weapon\\AccessModP2.Weapon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccessModP2.Weapon\\AccessModP2.Weapon.csproj",
+        "projectUniqueName": "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccesMod\\AccessModP2.Weapon\\AccessModP2.Weapon.csproj",
         "projectName": "AccessModP2.Weapon",
-        "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccessModP2.Weapon\\AccessModP2.Weapon.csproj",
+        "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccesMod\\AccessModP2.Weapon\\AccessModP2.Weapon.csproj",
         "packagesPath": "C:\\Users\\Honor MagicBook\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccessModP2.Weapon\\obj\\",
+        "outputPath": "C:\\Users\\Honor MagicBook\\Downloads\\AccessModP2\\AccesMod\\AccessModP2.Weapon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Honor MagicBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
